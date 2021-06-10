@@ -22,7 +22,7 @@ let moviesData = [
                 "last_name": "Brando",
                 "role_type": "ACTOR",
                 "profile_description": "Marlon Brando Jr. was an American actor and film director. He is credited with bringing realism to film acting and helping to popularize the Stanislavski system of acting having studied with Stella Adler in the 1940s. Regarded for his cultural influence on 20th century film, Brando's Academy Award-winning performances include that of Terry Malloy in On the Waterfront (1954) and Don Vito Corleone in The Godfather (1972). Brando was an activist for many causes, notably the civil rights movement and various Native American movements.",
-                "profile_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Marlon_Brando_%28cropped%29.jpg",
+                "profile_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Marlon_Brando_in_1950.png",
                 "wiki_url": "https://en.wikipedia.org/wiki/Marlon_Brando"
             },
             {
@@ -69,7 +69,7 @@ let moviesData = [
                 "last_name": "Ledger",
                 "role_type": "ACTOR",
                 "profile_description": "Heath Andrew Ledger was an Australian actor and director. After performing roles in several Australian television and film productions during the 1990s, Ledger left for the United States in 1998 to further develop his film career. His work comprised nineteen films, including Brokeback Mountain and The Dark Knight. Ledger received numerous posthumous accolades for his critically acclaimed performance in the film The Dark Knight, including the Academy Award for Best Supporting Actor and Best Actor International Award at the 2008 Australian Film Institute Awards",
-                "profile_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Heath_Ledger_%28Berlin_Film_Festival_2006%29_revised.jpg/1024px-Heath_Ledger_%28Berlin_Film_Festival_2006%29_revised.jpg",
+                "profile_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Heath_Ledger.jpg",
                 "wiki_url": "https://en.wikipedia.org/wiki/Heath_Ledger"
             }
         ]
@@ -174,7 +174,7 @@ let moviesData = [
                 "last_name": "Rao",
                 "role_type": "ACTOR",
                 "profile_description": "Rajkummar Rao, also known as Rajkumar Yadav, is an Indian actor. He has established a career in Hindi cinema and is the recipient of several awards, including a National Film Award, three Filmfare Awards, and an Asia Pacific Screen Award. He is cited in the media as one of the most talented actors of his generation.",
-                "profile_url": "https://en.wikipedia.org/wiki/Rajkummar_Rao#/media/File:Rajkummar_Rao_World_Premiere_Newton_Zoopalast_Berlinale_2017_02.jpg",
+                "profile_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rajkumar_Rao_Filmfare_Glamour_and_Style_Awards_2019_%28cropped%29.jpg",
                 "wiki_url": "https://en.wikipedia.org/wiki/Rajkummar_Rao"
             },
             {
